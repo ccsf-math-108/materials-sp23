@@ -8,14 +8,14 @@ assignees: shawnwiggins
 
 ---
 
-**Content Link**
+**Content Link or Name**
 _Replace this text with a link to or the name of the content that contains the issue._
 
 **Issue Description**
 _Replace this text with a brief description of the issue you have found._
 
-**[Optional] Screenshot**
+**Screenshot**
 _Replace this text with a screenshot of the issue. Make sure to not include any private information._
 
-**[Optional] Solution**
-_Replace this text with your (optional) proposed solution to resolve the issue._
+** Solution**
+_Replace this text with your proposed solution to resolve the issue._
