@@ -2,6 +2,10 @@
 
 Spring 2023 student course materials for [MATH 108 Foundations of Data Science](https://www.ccsf.edu/node/167501) at [CCSF](https://www.ccsf.edu)
 
+* [Computational and Inferential Thinking: The Foundations of Data Science](https://inferentialthinking.com/)
+* [datasciece Documentation](https://datascience.readthedocs.io/)
+* [JupyterLab Documentation](https://jupyterlab.readthedocs.io/)
+
 ## General Semester Schedule
 
 | **Module** | **Module Dates**                             | **Lectures**                                                     | **Lab Activity** | **Textbook Section(s)** | **Homework**    | **Project**         | **Exam** |
