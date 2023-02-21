@@ -17,5 +17,5 @@ _Replace this text with a brief description of the issue you have found._
 **Screenshot**
 _Replace this text with a screenshot of the issue. Make sure to not include any private information._
 
-** Solution**
+**Solution**
 _Replace this text with your proposed solution to resolve the issue._
